@@ -1,0 +1,6 @@
+{
+  "name": "AI Engineer Portfolio",
+  "description": "An immersive, interactive personal portfolio website for Abhiram A, Generative AI Engineer. It includes interactive skill directories, live RAG and ATS simulations, a beautiful chronological timeline, and a server-side Gemini-powered AI Recruiter Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
